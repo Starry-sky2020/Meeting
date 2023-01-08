@@ -1,0 +1,36 @@
+body{
+    background: url("../Pictures/main01.jpg") fixed;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-size: cover;
+}
+
+#btn01{
+    /*vertical-align: middle;*/
+    margin-top: 10px;
+    margin-left: 400px;
+    width: 10rem;
+}
+
+#btn02{
+    /*vertical-align: middle;*/
+    margin-top: 10px;
+    margin-left: 80px;
+    width: 10rem;
+}
+
+#btn03{
+    /*vertical-align: middle;*/
+    margin-top: 10px;
+    margin-left: 80px;
+    width: 10rem;
+}
+
+#welcome_font{
+    margin-top: 370px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15rem;
+    color: #d4d7f1;
+}

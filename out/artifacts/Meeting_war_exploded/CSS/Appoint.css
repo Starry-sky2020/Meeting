@@ -1,0 +1,9 @@
+body{
+    background: url("../Pictures/table_background03.jpg") fixed;
+    background-size: cover;
+}
+
+#submit{
+    width: 23rem;
+    text-align: center;
+}

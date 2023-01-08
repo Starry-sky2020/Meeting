@@ -1,0 +1,13 @@
+.container{
+    margin-top: 0;
+    width: 80%;
+    height: 100%;
+    background-size: cover;
+    background: rgba(255,255,255,0.7);
+    box-shadow: 2px 2px 12px 1px;
+}
+
+body{
+    background: url("../Pictures/table_background01.jpg") fixed;
+    background-size: cover;
+}
