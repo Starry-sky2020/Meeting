@@ -31,7 +31,7 @@ public class AppointServlet extends HttpServlet {
         Connection connection = null;
         PreparedStatement preparedStatement = null;
         int cnt = 0;
-        System.out.println("hh");
+        
         try {
             connection = DBUtil.getConnection();
             String sql = "insert into appoint_room (start_time,end_time,people,department_id,room_id,staff_id) " +
